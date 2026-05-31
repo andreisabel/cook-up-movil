@@ -1,9 +1,9 @@
-# 🍳 Proyecto Desarrollo Móvil Semestre 2023/I: Cook Up - Aplicación Móvil de Recetas
+# Proyecto Desarrollo Móvil Semestre 2023/I: Cook Up - Aplicación Móvil de Recetas
 
 
 ---
 
-## 🚀 1. Descripción y Propósito
+## 1. Descripción y Propósito
 
 **Cook Up** es una aplicación móvil desarrollada en **Flutter** que funciona como el compañero culinario del blog de recetas. El objetivo principal es ofrecer a los usuarios una **experiencia única e intuitiva** para **compartir, visualizar y descubrir deliciosas recetas** directamente desde su dispositivo.
 
@@ -13,7 +13,7 @@ La aplicación busca:
 
 ---
 
-## ✨ 2. Características Principales
+## 2. Características Principales
 
 Cook Up implementa:
 
@@ -24,7 +24,7 @@ Cook Up implementa:
 * 
 ---
 
-## 🛠️ 3. Arquitectura y Pila Tecnológica
+## 3. Arquitectura y Pila Tecnológica
 
 El proyecto sigue una arquitectura **modularizada** y utiliza una pila **BaaS (Backend-as-a-Service)**.
 
@@ -45,7 +45,7 @@ El proyecto sigue una arquitectura **modularizada** y utiliza una pila **BaaS (B
 
 ---
 
-## ⚙️ 4. Instalación y Configuración
+## 4. Instalación y Configuración
 
 El proyecto se encuentra en la **Versión 1.0.0+1**.
 
@@ -81,7 +81,7 @@ El proyecto se encuentra en la **Versión 1.0.0+1**.
 
 ---
 
-## 👨‍💻 6. Autoría 
+## 6. Autoría 
 
 Este proyecto fue desarrollado por:
 
